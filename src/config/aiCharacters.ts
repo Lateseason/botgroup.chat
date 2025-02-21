@@ -1,7 +1,7 @@
 // 首先定义模型配置
 export const modelConfigs = [
   {
-    model: "ep-20250221153613-25pdh",//火山引擎接入点（改成自己的）
+    model: "ep-m-20250221175337-7cc7q",//火山引擎接入点（改成自己的）
     apiKey: "ARK_API_KEY",
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   }
